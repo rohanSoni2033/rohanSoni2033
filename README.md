@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning javascript
 <!--
 **rohanSoni2033/rohanSoni2033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
