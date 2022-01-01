@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning javascript.
+- 🔭 I’m currently working on my portfolio website.
+- ♥️ I love building eye-catching user interfaces.
 
 
 [![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohanSoni2033&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false)](https://github.com/rohanSoni2033/github-readme-stats)
