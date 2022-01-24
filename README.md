@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning javascript.
-- 🔭 I’m currently working on my portfolio website.
-- ♥️ I love building eye-catching user interfaces.
+- 💁‍♂️ I'm a 🤖 JavaScript developer & 🎨 Graphic designer.
+- ♥️ I love building beautiful and eye-catching user interfaces.
 
-
-[![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohanSoni2033&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false)](https://github.com/rohanSoni2033/github-readme-stats)
-
-<img src="https://github.com/rohanSoni2033/rohanSoni2033/blob/main/img/javascript.png"><img src="https://github.com/rohanSoni2033/rohanSoni2033/blob/main/img/react.png"><img src="https://github.com/rohanSoni2033/rohanSoni2033/blob/main/img/node_js.png">
+<br>
+<img alt="react" src="https://img.shields.io/badge/HTML5%20-%2320232a.svg?&style=for-the-badge&logo=html5"/>
+<img alt="react" src="https://img.shields.io/badge/CSS3%20-%2320232a.svg?&style=for-the-badge&logo=css3"/>
+<img alt="react" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript"/>
+<img alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react"/>
+<img  alt="react" src="https://img.shields.io/badge/nodejs%20-%2320232a.svg?&style=for-the-badge&logo=node.js" />
+<img  alt="react" src="https://img.shields.io/badge/figma%20-%2320232a.svg?&style=for-the-badge&logo=figma" />
+<br>
 
 
 
